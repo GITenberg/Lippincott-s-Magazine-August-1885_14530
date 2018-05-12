@@ -1,0 +1,39 @@
+_repo: Lippincott-s-Magazine-August-1885_14530
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+description: ''
+gutenberg_bookshelf:
+- Contemporary Reviews
+- Lippincott's Magazine
+gutenberg_issued: '2004-12-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14530'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Literature, Modern -- 19th century -- Periodicals'
+- !lcc 'AP'
+- !lcsh 'Science -- Periodicals'
+tableOfContents: "ON THIS SIDE. by F.C. BAYLOR\r\nOUR VILLE. by MARGARET BERTHA WRIGHT\r\
+  \nTHE PRIMITIVE COUPLE. by M.H. CATHERWOOD\r\n  PARADISE\r\n  FORBIDDEN FRUIT\r\n\
+  \  THE FLAMING SWORD\r\nPROBATION. by FLORENCE EARLE COATES\r\nTHE PIONEERS OF THE\
+  \ SOUTHWEST. by EDMUND KIRKE\r\nA PLEASANT SPIRIT. by MARGARET VANDEGRIFT\r\nFISHING\
+  \ IN ELK RIVER. by TOBE HODGE\r\nON A NOBLE CHARACTER MARRED BY LITTLENESS by CHARLOTTE\
+  \ FISKE BATES\r\nTHE SCOTTISH CROFTERS. by DAVID BENNETT KING\r\nMY FRIEND GEORGE\
+  \ RANDALL. by FRANK PARKE\r\nTHE WOOD-THRUSH AT SUNSET. by MARY C. PECKHAM\r\nA\
+  \ FOREST BEAUTY. by MAURICE THOMPSON\r\nOUR MONTHLY GOSSIP\r\n  Daniel Webster's\
+  \ \"Moods.\" by F.C.M.\r\n  Feuds and Lynch-Law in the Southwest. by J.A.M.\r\n\
+  \  The Etymology of \"Babe.\" by S.E.T.\r\nLITERATURE OF THE DAY\r\n  Recent Fiction."
+title: Lippincott's Magazine, August, 1885
+url: http://www.gutenberg.org/ebooks/14530
